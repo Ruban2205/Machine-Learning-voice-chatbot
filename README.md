@@ -12,7 +12,7 @@ Jerusha S - [Jerusha Keria](https://github.com/jerusha-keira)
 
 ## LICENCE 📄
 
-This repository is released under Creative Commons License. See [LICENSE](/LICENSE) for more details. 
+This repository is released under MIT License. See [LICENSE](/LICENSE) for more details. 
 
 ## Contact 📱
 
