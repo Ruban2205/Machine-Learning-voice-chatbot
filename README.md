@@ -2,6 +2,8 @@
 
 ## Description 📝 
 
+A simple voice recognition chat bot to help users with their voice inputs to get the information as a voice input using Speech Recognition python library. During the run time the program will ask the voice input from the user. User input is send to the openai website to fetch the data from the openai website to get the real-time data by using the openai API. 
+
 ## Usage ⚙️
 
 ## Languages and Tools 💻
