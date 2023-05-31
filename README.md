@@ -40,9 +40,34 @@ venv\Scripts\activate.bat  # For Windows
 python src/chatbot.py
 ```
 
-## LICENCE 📄
+## ℹ️ Usage
 
-This repository is released under MIT License. See [LICENSE](/LICENSE) for more details. 
+Once the chatbot application is running, it will wait for voice commands. Users can speak their queries or commands, and the chatbot will process the input, generate a response, and provide it through the audio output.
+
+
+## 🤝 Contributing
+
+If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository on GitHub.
+
+2. Create a new branch with a descriptive name:
+```
+git checkout -b feature/my-feature
+```
+
+3. Make your desired changes and commit them.
+
+4. Push your changes to your forked repository.
+
+5. Submit a pull request to the main repository, detailing the changes you have made.
+
+Please ensure that your contributions align with the coding style, guidelines, and objectives of the project.
+
+
+## 📄 LICENCE 
+
+This project is licensed under the MIT License. See [LICENSE](/LICENSE) for more details. 
 
 ## Contact 📱
 
