@@ -16,6 +16,30 @@ This repository contains the code for a Machine Learning voice chatbot built usi
 
 This project has been developed in collaboration with [Jerusha S](https://github.com/jerusha-keira). Their contributions have been valuable in the development and improvement of the chatbot.
 
+## 🚀 Installation
+
+To set up and run the chatbot locally, follow these steps:
+
+1. Clone the repository:
+```
+git clone https://github.com/Ruban2205/Machine-Learning-voice-chatbot.git
+```
+
+2. Install the required dependencies. It is recommended to use a virtual environment:
+```
+cd Machine-Learning-voice-chatbot
+python -m venv venv
+source venv/bin/activate  # For Unix/Linux
+venv\Scripts\activate.bat  # For Windows
+```
+
+3. Configure the API credentials for the OPEN AI API. You will need to obtain the necessary API key from OpenAI and set it as an environment variable or update the configuration file with your credentials.
+
+4. Start the chatbot application:
+```
+python src/chatbot.py
+```
+
 ## LICENCE 📄
 
 This repository is released under MIT License. See [LICENSE](/LICENSE) for more details. 
