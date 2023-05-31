@@ -12,9 +12,9 @@ This repository contains the code for a Machine Learning voice chatbot built usi
 - openai 
 - Visual Studio code 
 
-## Collaborators 👤👤
+## 🤝 Collaborators
 
-Jerusha S - [Jerusha Keria](https://github.com/jerusha-keira)
+This project has been developed in collaboration with [Jerusha S](https://github.com/jerusha-keira). Their contributions have been valuable in the development and improvement of the chatbot.
 
 ## LICENCE 📄
 
