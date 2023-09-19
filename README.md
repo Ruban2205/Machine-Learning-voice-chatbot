@@ -63,7 +63,7 @@ git checkout -b feature/my-feature
 Please ensure that your contributions align with the coding style, guidelines, and objectives of the project.
 
 
-## 📄 LICENCE 
+## 📄 License 
 
 This project is licensed under the MIT License. See [LICENSE](/LICENSE) for more details. 
 
