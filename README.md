@@ -1,6 +1,6 @@
 # 🤖 Machine Learning Voice Chatbot
 
-A simple voice recognition chat bot to help users with their voice inputs to get the information as a voice input using Speech Recognition python library. During the run time the program will ask the voice input from the user. User input is send to the openai website to fetch the data from the openai website to get the real-time data by using the openai API. 
+A simple voice recognition chatbot to help users with their voice inputs to get the information as a voice input using Speech Recognition python library. During the run time the program will ask the voice input from the user. User input is send to the openai website to fetch the data from the openai website to get the real-time data by using the openai API. 
 
 This repository contains the code for a Machine Learning voice chatbot built using the OPEN AI API. The chatbot is designed to interact with users through voice commands and provide relevant responses based on natural language processing and machine learning algorithms.
 
