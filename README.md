@@ -11,16 +11,16 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Ruban2205/get-weather-vite-js-application.svg?style=for-the-badge
-[contributors-url]: https://github.com/Ruban2205/get-weather-vite-js-application/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Ruban2205/get-weather-vite-js-application.svg?style=for-the-badge
-[forks-url]: https://github.com/Ruban2205/get-weather-vite-js-application/network/members
-[stars-shield]: https://img.shields.io/github/stars/Ruban2205/get-weather-vite-js-application.svg?style=for-the-badge
-[stars-url]: https://github.com/Ruban2205/get-weather-vite-js-application/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Ruban2205/get-weather-vite-js-application.svg?style=for-the-badge
-[issues-url]: https://github.com/Ruban2205/get-weather-vite-js-application/issues
-[license-shield]: https://img.shields.io/github/license/Ruban2205/get-weather-vite-js-application.svg?style=for-the-badge
-[license-url]: https://github.com/Ruban2205/get-weather-vite-js-application/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/Ruban2205/Machine-Learning-voice-chatbot.svg?style=for-the-badge
+[contributors-url]: https://github.com/Ruban2205/Machine-Learning-voice-chatbot/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Ruban2205/Machine-Learning-voice-chatbot.svg?style=for-the-badge
+[forks-url]: https://github.com/Ruban2205/Machine-Learning-voice-chatbot/network/members
+[stars-shield]: https://img.shields.io/github/stars/Ruban2205/Machine-Learning-voice-chatbot.svg?style=for-the-badge
+[stars-url]: https://github.com/Ruban2205/Machine-Learning-voice-chatbot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Ruban2205/Machine-Learning-voice-chatbot.svg?style=for-the-badge
+[issues-url]: https://github.com/Ruban2205/Machine-Learning-voice-chatbot/issues
+[license-shield]: https://img.shields.io/github/license/Ruban2205/Machine-Learning-voice-chatbot.svg?style=for-the-badge
+[license-url]: https://github.com/Ruban2205/Machine-Learning-voice-chatbot/blob/main/LICENSE
 
 A simple voice recognition chatbot to help users with their voice inputs to get the information as a voice input using Speech Recognition python library. During the run time the program will ask the voice input from the user. User input is send to the openai website to fetch the data from the openai website to get the real-time data by using the openai API. 
 
